@@ -1,0 +1,19 @@
+I am submmiting with a link of a pdf of a chapter extarct the data from it as per my requirement.
+
+Convert into a) excel file with col name (Chapter Number,	Chapter Name	,Topic Number	,Topic Title,	Sequence No	,Parent Sequence No,	Page No	,Type	.Internal Name ,Actual Content)
+
+https://ncert.nic.in/textbook/pdf/hesc106.pdf
+
+https://ncert.nic.in/textbook/pdf/hesc108.pdf
+
+https://ncert.nic.in/textbook/pdf/hesc113.pdf
+combine all pdfs use decription for actual content here
+
+convert it into json format also
+
+make a study planner for 35 days with the chapterno,chapter name, content ,time ,importance in exam
+
+
+
+
+
